@@ -20,9 +20,7 @@ Eviction
 {% assign filenames = "/eviction/MattRoomBehindDoor.jpg,/eviction/MattRoomBehindDoor2.jpg" | split: "," %}
 <div>
 {% for name in filenames %}
-    <div class="box">
         <a href="{{ name }}"><img src="{{ name }}" style="max-width: 200px;"/></a>
-    </div>
 {% endfor %}
 </div>
 
