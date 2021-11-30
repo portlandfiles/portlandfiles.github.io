@@ -15,7 +15,7 @@ Eviction
 ------------
 
 * [Room at the time of eviction](eviction-photos.md)
-* [Eviction notice](EvictMatt-DigitallySigned)
+* [Eviction notice](EvictMatt-DigitallySigned.md)
 
 Paragraphs are separated by a blank line.
 
