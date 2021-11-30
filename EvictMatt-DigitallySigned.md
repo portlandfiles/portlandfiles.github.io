@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Eviction notice
-permalink: /EvictMatt-DigitallySigned
 ---
 
 Sunday, November 7, 2021
