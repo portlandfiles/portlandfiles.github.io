@@ -1,3 +1,8 @@
+---
+sidebar:
+  nav: "docs"
+---
+  
 Norman Matthew Insley
 ============
 
