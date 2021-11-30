@@ -14,7 +14,7 @@ Sources include:
 Eviction
 ------------
 
-* [link](eviction-photos.md)
+* [Room at the time of eviction](eviction-photos.md)
 
 Paragraphs are separated by a blank line.
 
