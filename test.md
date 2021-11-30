@@ -14,7 +14,8 @@ Sources include:
 Eviction
 ------------
 
-{% include image.html file="/eviction/MattRoomBehindDoor.jpg" %}{% include image.html file="/eviction/MattRoomBehindDoor2.jpg" %}
+{% include image.html file="/eviction/MattRoomBehindDoor.jpg" %}
+{% include image.html file="/eviction/MattRoomBehindDoor2.jpg" %}
 
 
 Paragraphs are separated by a blank line.
