@@ -14,9 +14,7 @@ Sources include:
 Eviction
 ------------
 
-{% include image.html url="http://jekyllrb.com"
-max-width="200px" file="/eviction/MattRoomBehindDoor.jpg" alt="Jekyll logo"
-caption="This is the Jekyll logo." %}
+{% include image.html max-width="200px" file="/eviction/MattRoomBehindDoor.jpg" %}
 
 Paragraphs are separated by a blank line.
 
