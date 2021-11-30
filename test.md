@@ -1,4 +1,4 @@
-Norman Matthew Insley
+Who is Norman Matthew Insley?
 ============
 
 **Matt Insley** is a self described 'Gender Critical ally to women' and a disc jockey in the Portland area. 
