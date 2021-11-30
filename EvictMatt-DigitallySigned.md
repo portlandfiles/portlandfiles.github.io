@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Eviction notice"
+title: Eviction notice
 permalink: /EvictMatt-DigitallySigned
 ---
+
 Sunday, November 7, 2021
 
 # Termination of monthly Tenancy for Norman Matt Insley of [REDACTED], Portland, Oregon, [REDACTED]
