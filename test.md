@@ -15,6 +15,8 @@ Eviction
 ------------
 
 {% include image.html max-width="200px" file="/eviction/MattRoomBehindDoor.jpg" %}
+{% include image.html max-width="200px" file="/eviction/MattRoomBehindDoor2.jpg" %}
+
 
 Paragraphs are separated by a blank line.
 
