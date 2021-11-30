@@ -14,10 +14,7 @@ Sources include:
 Eviction
 ------------
 
-{% assign filenames = "/eviction/MattRoomBehindDoor.jpg,/eviction/MattRoomBehindDoor2.jpg" | split: "," %}
-{% for name in filenames %}
-        <a href="{{ name }}"><img src="{{ name }}" style="max-width: 200px;"/></a>
-{% endfor %}
+* blah
 
 Paragraphs are separated by a blank line.
 
