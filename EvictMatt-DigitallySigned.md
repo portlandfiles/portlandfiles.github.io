@@ -126,10 +126,10 @@ egregious acts.
 
 Printed, signed, posted, hand-delivered and mailed and emailed this Sunday, November 7,
 2021 by Diane Marie Perry, de facto landlord.
-_________________________
 
-Diane
-Marie Perry
+----
+
+Diane Marie Perry
 
 
 Digitally signed by Diane Marie Perry
