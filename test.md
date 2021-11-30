@@ -14,15 +14,10 @@ Sources include:
 Eviction
 ------------
 
-{% include image.html file="/eviction/MattRoomBehindDoor.jpg" %}
-{% include image.html file="/eviction/MattRoomBehindDoor2.jpg" %}
-
 {% assign filenames = "/eviction/MattRoomBehindDoor.jpg,/eviction/MattRoomBehindDoor2.jpg" | split: "," %}
-<div>
 {% for name in filenames %}
         <a href="{{ name }}"><img src="{{ name }}" style="max-width: 200px;"/></a>
 {% endfor %}
-</div>
 
 Paragraphs are separated by a blank line.
 
