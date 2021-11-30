@@ -7,7 +7,7 @@ Mr Insley has been orchestrating a smear campaign against me for over a year and
 
 In the spirit of understanding and curtailing abusive behavior in the community, I'm publishing what has been shared with me.
 
-Sources include [[https://drive.google.com/drive/folders/1p5nq1ZugUdkH_IKddcYRORX_-LJOZpbb]]
+Sources include [https://drive.google.com/drive/folders/1p5nq1ZugUdkH_IKddcYRORX_-LJOZpbb]
 
 Eviction
 ------------
