@@ -1,4 +1,4 @@
-Eviction photos
+Room at the time of eviction
 ============
 
 ![](/eviction/MattRoomBehindDoor.jpg)
