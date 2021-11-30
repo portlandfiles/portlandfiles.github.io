@@ -1,6 +1,8 @@
-Sunday, November 7, 2021
+---
+title: Termination of monthly Tenancy for Norman Matt Insley of [REDACTED], Portland, Oregon, [REDACTED]
+---
 
-# Termination of monthly Tenancy for Norman Matt Insley of [REDACTED], Portland, Oregon, [REDACTED]
+Sunday, November 7, 2021
 
 Posted at his door and mailed first class to residence address. Attempts to serve via Multnomah
 Country Civil Court will also be pursued as well as options approved by 90.150 (1-4) per the
