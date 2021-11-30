@@ -21,9 +21,9 @@ Eviction
 <div>
 {% for name in filenames %}
     <div class="box">
-    <a href="{{ name }}"><img src="{{ name }}"/></a>
+        <a href="{{ name }}"><img src="{{ name }}" style="max-width: 200px;"/></a>
     </div>
- {% endfor %}
+{% endfor %}
 </div>
 
 Paragraphs are separated by a blank line.
