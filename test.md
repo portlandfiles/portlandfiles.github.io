@@ -1,11 +1,11 @@
 Norman Matthew Insley
 ============
 
-**Matt Insley** is a self described 'Gender Critical ally to women' and a disc jockey in the Portland area. He has been orchestrating a smear campaign against me for over a year and it has come to my attention that there are several victoms of the celebrity in question.
+**Matt Insley** is a self described 'Gender Critical ally to women' and a disc jockey in the Portland area. Mr Insley has been orchestrating a smear campaign against me for over a year and it has come to my attention that there are several victims of the celebrity in question.
 
 In the spirit of understanding and curtailing abusive behavior in the community, I'm publishing what has been shared with me.
 
-An h2 header
+Eviction
 ------------
 
 
