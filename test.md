@@ -17,13 +17,11 @@ Eviction
 {% include image.html file="/eviction/MattRoomBehindDoor.jpg" %}
 {% include image.html file="/eviction/MattRoomBehindDoor2.jpg" %}
 
-{% assign filenames = "img1.png,img2.png,img3.png" | split: "," %}
+{% assign filenames = "/eviction/MattRoomBehindDoor.jpg,/eviction/MattRoomBehindDoor2.jpg" | split: "," %}
 <div>
 {% for name in filenames %}
     <div class="box">
-    <a href="{{ site.imagesurl }}{{ name }}">
-      <img src="{{ site.thumbsurl }}{{ name }} " alt="{{ name }}"  class="img-gallery" />
-     </a>
+    <a href="{{ name }}"><img src="{{ name }}"/></a>
     </div>
  {% endfor %}
 </div>
