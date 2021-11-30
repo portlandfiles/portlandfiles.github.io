@@ -1,7 +1,3 @@
----
-title: Eviction notice
----
-
 Sunday, November 7, 2021
 
 # Termination of monthly Tenancy for Norman Matt Insley of [REDACTED], Portland, Oregon, [REDACTED]
