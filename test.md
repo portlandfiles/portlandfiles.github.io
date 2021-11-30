@@ -14,17 +14,9 @@ Sources include:
 Eviction
 ------------
 
-![example image](/eviction/MattRoomBehindDoor.jpg "An exemplary image")
-
-<figure>
-   <a href="http://jekyllrb.com">
-   <img src="/eviction/MattRoomBehindDoor.jpg" style="max-width: 200px;"
-      alt="Jekyll logo" />
-   </a>
-   <figcaption>This is the Jekyll logo</figcaption>
-</figure>
-
-
+{% include image.html url="http://jekyllrb.com"
+max-width="200px" file="/eviction/MattRoomBehindDoor.jpg" alt="Jekyll logo"
+caption="This is the Jekyll logo." %}
 
 Paragraphs are separated by a blank line.
 
