@@ -17,6 +17,16 @@ Eviction
 {% include image.html file="/eviction/MattRoomBehindDoor.jpg" %}
 {% include image.html file="/eviction/MattRoomBehindDoor2.jpg" %}
 
+{% assign filenames = "img1.png,img2.png,img3.png" | split: "," %}
+<div>
+{% for name in filenames %}
+    <div class="box">
+    <a href="{{ site.imagesurl }}{{ name }}">
+      <img src="{{ site.thumbsurl }}{{ name }} " alt="{{ name }}"  class="img-gallery" />
+     </a>
+    </div>
+ {% endfor %}
+</div>
 
 Paragraphs are separated by a blank line.
 
