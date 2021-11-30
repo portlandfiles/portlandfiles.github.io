@@ -16,6 +16,16 @@ Eviction
 
 ![example image](/eviction/MattRoomBehindDoor.jpg "An exemplary image")
 
+<figure>
+   <a href="http://jekyllrb.com">
+   <img src="/eviction/MattRoomBehindDoor.jpg" style="max-width: 200px;"
+      alt="Jekyll logo" />
+   </a>
+   <figcaption>This is the Jekyll logo</figcaption>
+</figure>
+
+
+
 Paragraphs are separated by a blank line.
 
 2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
