@@ -12,7 +12,7 @@ Sources include: [geekgurl2000's Google Drive](https://drive.google.com/drive/fo
 Eviction
 ------------
 
-
+![example image](MattRoomBehindDoor.jpg "An exemplary image")
 
 Paragraphs are separated by a blank line.
 
