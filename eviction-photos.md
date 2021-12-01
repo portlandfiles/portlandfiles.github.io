@@ -1,6 +1,4 @@
----
-title: Room at the time of eviction
----
+# Room at the time of eviction
 
 ![](/eviction/MattRoomBehindDoor.jpg)
 
