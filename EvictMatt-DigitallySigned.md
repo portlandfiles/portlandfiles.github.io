@@ -1,4 +1,4 @@
-# Termination of monthly Tenancy for Norman Matt Insley of [REDACTED], Portland, Oregon, [REDACTED]
+**Termination of monthly Tenancy for Norman Matt Insley of [REDACTED], Portland, Oregon, [REDACTED]**
 
 Sunday, November 7, 2021
 
